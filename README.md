@@ -16,7 +16,7 @@ It analyzes business performance over a 2-year period and provides insights into
 ---
 
 ## Dataset Description
-The project uses 3 datasets:
+The project uses 4 datasets:
 
 ### 1. Sales Data
 - OrderID
@@ -40,7 +40,7 @@ The project uses 3 datasets:
 - Category
 - UnitPrice
 
-### 3. Custome Calendar
+### 4. Custome Calendar
 - Date
 - Month
 - Quarter
